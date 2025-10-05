@@ -1,2 +1,2 @@
 #!/bin/bash
-eval "echo \$(( $bestchol#\$(( $water#$WATER + $stir#$STIR )) ))"
+echo $(eval " \$(( $bestchol#\$(( $water#$WATER + $stir#$STIR )) ))")
