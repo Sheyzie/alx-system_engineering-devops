@@ -175,3 +175,14 @@ julien@production-503e7013:~$
 ```
 
 - **file:** `8-true_knowledge`
+
+---
+
+### 9. Divide and rule
+
+- Write a script that prints the result of `POWER` divided by `DIVIDE`, followed by a new line.
+
+    - `POWER` and `DIVIDE` are environmental variables
+
+ **file:** `9-divide_and_rule`
+---
