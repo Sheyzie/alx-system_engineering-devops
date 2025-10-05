@@ -152,4 +152,13 @@ julien@ubuntu:/tmp/0x03$
 
 ---
 
+### 7. Global variable
+
+- Create a script that creates a new global variable.
+
+    - Name: BEST
+    - Value: School
+
+- **file:** `7-create_global_variable`
+
 
