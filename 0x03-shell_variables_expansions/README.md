@@ -140,3 +140,16 @@ julien@ubuntu:/tmp/0x03$
 - **file:** `4-global_variables`
 
 ---
+
+### 6. Local variable
+
+- Create a script that creates a new local variable.
+
+    - Name: BEST
+    - Value: School
+
+- **file:** `6-create_local_variable`
+
+---
+
+
